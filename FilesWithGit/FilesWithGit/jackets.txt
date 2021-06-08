@@ -1,14 +1,16 @@
 #Jacket 1
-suprmeme
+supreme
 leather
-rd
-xl
-15.66
+red
+XL
+14.55
 #-------------
+
 #Jacket 2
-kathmanduy\
-black
-leather
-xs
-12.32
+kathmadnu
+emo
+emo2
+XS
+14.55
 #-------------
+
